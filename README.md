@@ -8,3 +8,6 @@ At this stage, this filter includes stores that make AI generated photo backdrop
  HOW TO USE THIS LIST</br>
  I detailed instructions on how to use this list on my blog: https://jessicaamber.com.au/blog/how-to-block-product-listings-on-etsy/ </br>
  Works with AdBlocker Ultimate and uBlock Origin browser extensions for desktop and Android. Untested on iOS.
+
+LIMITATIONS
+This filter does not work on the 'you may also like' section in a product listing page, because my filter relies on the name of the store being in a span adjacent to the content, and those suggested product do not have store names attached.
