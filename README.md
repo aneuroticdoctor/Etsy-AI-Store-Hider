@@ -5,6 +5,10 @@ At this stage, this filter includes stores that make AI generated photo backdrop
  If you see a store on this list that shouldn't be there, let me know and I will revise.
  If you want to add stores to this list, you can let me know or make a fork.
 
+ VERSIONS
+ Version 1.1
+ Now blocks based on class wt-list-unstyled which will also hide the add to cart button for those listings, and the Etsy webpage listings will no longer appear to have gaps in them
+
  HOW TO USE THIS LIST</br>
  I detailed instructions on how to use this list on my blog: https://jessicaamber.com.au/blog/how-to-block-product-listings-on-etsy/ </br>
  Works with AdBlocker Ultimate and uBlock Origin browser extensions for desktop and Android. Untested on iOS.
