@@ -1,4 +1,4 @@
-Adblock filter that hides certain Etsy stores with AI-generated content from search results. Over 400 Etsy stores currently included.
+Adblock filter that hides certain Etsy stores with AI-generated content from search results. Over 470 Etsy stores currently included.
 At this stage, this filter includes stores that make AI generated photo backdrops, stock images, clipart, scene creator props, and mockups.
  This list is being manually compiled by me, JessicaAmber. Determinations are based on my visual judgement and, when it is unclear, by asking the creators directly.
  This list includes stores with all-AI, or predominantly AI-generated products.
